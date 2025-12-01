@@ -1,7 +1,10 @@
 # Baganator
 
-## [769](https://github.com/TheMouseNest/Baganator/tree/769) (2025-11-07)
-[Full Changelog](https://github.com/TheMouseNest/Baganator/compare/768...769) 
+## [770](https://github.com/TheMouseNest/Baganator/tree/770) (2025-12-01)
+[Full Changelog](https://github.com/TheMouseNest/Baganator/compare/769...770) 
 
-- Fix leaking globals  
-- Tag as supporting 12.0  
+- Update toc for China's Titan build  
+- Revert "Midnight: Temporary fix for spurious tooltip errors"  
+    No longer needed  
+- Midnight: Temporary fix for spurious tooltip errors  
+- Remove usage of deprecated function  
