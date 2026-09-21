@@ -1,7 +1,6 @@
 # Baganator
 
-## [824](https://github.com/TheMouseNest/Baganator/tree/824) (2026-09-15)
-[Full Changelog](https://github.com/TheMouseNest/Baganator/compare/823...824) 
+## [828](https://github.com/TheMouseNest/Baganator/tree/828) (2026-09-19)
+[Full Changelog](https://github.com/TheMouseNest/Baganator/compare/827...828) 
 
-- EllesmereUI Skin: Fix searches not fading not matching items  
-- Experimental EllesmereUI skin  
+- Forever: Fix equipment set scanning  
